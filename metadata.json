@@ -1,0 +1,6 @@
+{
+  "name": "JCB 4CX Build Master",
+  "description": "Realistic 3D mechanical assembly and driving simulator for the JCB 4CX backhoe loader with 10 assembly levels, interactive 3D tools, bilingual English/Hindi UI, and 7 field missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
